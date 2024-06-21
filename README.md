@@ -1,2 +1,2 @@
 # CS-2500-BST-Tree
-Initial experience working with BST Trees and creating traversal and other various features.
+Initial experience working with BST Trees and creating traversal and other various features. Incredibly helpful exercise in tree functionality and manipulation. Added a wide variety of user commands from insertion to pre, in, and post order traversal features. Another incredibly fun assignment that I'd recommend to any looking to get a deeper understanding of coding structure/trees.
